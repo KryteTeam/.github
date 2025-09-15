@@ -1,4 +1,4 @@
 # Hello, we are Kryte.
 
-We make software, for people, not ads.  
+We make beautiful software, for **people** to enjoy.  
 All of our software (if not already) will become FOSS.  
