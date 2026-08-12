@@ -1,4 +1,4 @@
 # hey, we're kryte.
 we make software people want  
 [kryte.org](https://kryte.org)  
-(c) 2024
+(c) 2024 - 2026
